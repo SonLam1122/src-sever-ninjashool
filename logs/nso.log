@@ -1,0 +1,428 @@
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 02:34:12 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 02:34:12 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 02:34:12 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 02:34:12 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.user: root
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 02:34:12 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 02:34:12 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 02:34:12 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 02:34:12 INFO  (main)] - Config - server.id: 1
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 02:34:12 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 02:34:12 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 02:34:12 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 02:34:12 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 02:34:12 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 02:34:12 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 02:34:12 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 02:34:12 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 02:34:13 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 02:34:23 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 02:34:23 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 02:34:23 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 02:34:23 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.user: root
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 02:34:23 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 02:34:23 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 02:34:23 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 02:34:23 INFO  (main)] - Config - server.id: 1
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 02:34:23 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 02:34:23 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 02:34:23 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 02:34:23 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 02:34:23 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 02:34:23 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 02:34:23 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 02:34:23 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 02:34:23 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 02:34:33 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 02:34:33 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 02:34:33 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 02:34:33 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.user: root
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 02:34:33 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 02:34:33 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 02:34:33 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 02:34:33 INFO  (main)] - Config - server.id: 1
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 02:34:33 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 02:34:33 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 02:34:33 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 02:34:33 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 02:34:33 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 02:34:33 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 02:34:33 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 02:34:33 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 02:34:34 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 02:35:02 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 02:35:02 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 02:35:02 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 02:35:02 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.user: root
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 02:35:02 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 02:35:02 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 02:35:02 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 02:35:02 INFO  (main)] - Config - server.id: 1
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 02:35:02 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 02:35:02 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 02:35:02 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 02:35:02 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 02:35:02 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 02:35:02 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 02:35:02 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 02:35:02 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 02:35:03 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 02:35:04 INFO  (main)] - Loading list leader board
+[2025-07-04 02:35:04 INFO  (main)] - Load list leader board successfully
+[2025-07-04 02:35:04 INFO  (main)] - Loading clan data
+[2025-07-04 02:35:04 INFO  (main)] - Load clan data successfully
+[2025-07-04 02:35:04 INFO  (main)] - Load TDB
+[2025-07-04 02:35:04 INFO  (main)] - load finish:Thi�n b?ng
+[2025-07-04 02:35:04 INFO  (main)] - load finish:??a b?ng
+[2025-07-04 02:35:04 INFO  (main)] - Load TDB successfully
+[2025-07-04 02:35:05 INFO  (main)] - Start socket post=14444
+[2025-07-04 02:35:05 INFO  (main)] - Start server Success!
+[2025-07-04 02:35:05 INFO  (Thread-345)] - Connect to socket server successfully!
+[2025-07-04 02:36:31 INFO  (AWT-EventQueue-0)] - ?�ng m�y ch?.
+[2025-07-04 02:36:31 INFO  (AWT-EventQueue-0)] - End socket
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 02:39:01 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 02:39:01 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 02:39:01 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 02:39:01 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.user: root
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 02:39:01 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 02:39:01 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 02:39:01 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 02:39:01 INFO  (main)] - Config - server.id: 1
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 02:39:01 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 02:39:01 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 02:39:01 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 02:39:01 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 02:39:01 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 02:39:01 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 02:39:01 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 02:39:01 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 02:39:01 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 02:39:03 INFO  (main)] - Loading list leader board
+[2025-07-04 02:39:03 INFO  (main)] - Load list leader board successfully
+[2025-07-04 02:39:03 INFO  (main)] - Loading clan data
+[2025-07-04 02:39:03 INFO  (main)] - Load clan data successfully
+[2025-07-04 02:39:03 INFO  (main)] - Load TDB
+[2025-07-04 02:39:03 INFO  (main)] - load finish:Thiên bảng
+[2025-07-04 02:39:03 INFO  (main)] - load finish:Địa bảng
+[2025-07-04 02:39:03 INFO  (main)] - Load TDB successfully
+[2025-07-04 02:39:03 INFO  (main)] - Start socket post=14444
+[2025-07-04 02:39:03 INFO  (main)] - Start server Success!
+[2025-07-04 02:39:03 INFO  (Thread-345)] - Connect to socket server successfully!
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 02:47:40 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 02:47:40 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 02:47:40 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 02:47:40 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.user: root
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 02:47:40 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 02:47:40 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 02:47:40 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 02:47:40 INFO  (main)] - Config - server.id: 1
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 02:47:40 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 02:47:40 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 02:47:40 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 02:47:40 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 02:47:40 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 02:47:40 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 02:47:40 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 02:47:40 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 02:47:41 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 02:47:42 INFO  (main)] - Loading list leader board
+[2025-07-04 02:47:42 INFO  (main)] - Load list leader board successfully
+[2025-07-04 02:47:42 INFO  (main)] - Loading clan data
+[2025-07-04 02:47:42 INFO  (main)] - Load clan data successfully
+[2025-07-04 02:47:42 INFO  (main)] - Load TDB
+[2025-07-04 02:47:42 INFO  (main)] - load finish:Thiên bảng
+[2025-07-04 02:47:42 INFO  (main)] - load finish:Địa bảng
+[2025-07-04 02:47:42 INFO  (main)] - Load TDB successfully
+[2025-07-04 02:47:42 INFO  (main)] - Start socket post=14444
+[2025-07-04 02:47:42 INFO  (main)] - Start server Success!
+[2025-07-04 02:47:42 INFO  (Thread-345)] - Connect to socket server successfully!
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 02:52:16 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 02:52:16 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 02:52:16 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 02:52:16 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.user: root
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 02:52:16 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 02:52:16 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 02:52:16 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 02:52:16 INFO  (main)] - Config - server.id: 1
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 02:52:16 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 02:52:16 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 02:52:16 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 02:52:16 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 02:52:16 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 02:52:16 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 02:52:16 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 02:52:16 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 02:52:17 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 02:52:18 INFO  (main)] - Loading list leader board
+[2025-07-04 02:52:18 INFO  (main)] - Load list leader board successfully
+[2025-07-04 02:52:18 INFO  (main)] - Loading clan data
+[2025-07-04 02:52:18 INFO  (main)] - Load clan data successfully
+[2025-07-04 02:52:18 INFO  (main)] - Load TDB
+[2025-07-04 02:52:18 INFO  (main)] - load finish:Thiên bảng
+[2025-07-04 02:52:18 INFO  (main)] - load finish:Địa bảng
+[2025-07-04 02:52:18 INFO  (main)] - Load TDB successfully
+[2025-07-04 02:52:19 INFO  (main)] - Start socket post=14444
+[2025-07-04 02:52:19 INFO  (main)] - Start server Success!
+[2025-07-04 02:52:19 INFO  (Thread-345)] - Connect to socket server successfully!
+[2025-07-04 02:54:26 INFO  (AWT-EventQueue-0)] - Lưu Shinwa
+[2025-07-04 02:54:26 INFO  (AWT-EventQueue-0)] - Lưu shinwa xong
+[2025-07-04 03:23:11 INFO  (AWT-EventQueue-0)] - Đóng máy chủ.
+[2025-07-04 03:23:11 INFO  (AWT-EventQueue-0)] - End socket
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.password: 112204
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-04 08:44:03 INFO  (main)] - Config - mongodb.password: 
+[2025-07-04 08:44:03 INFO  (main)] - Config - server.log.display: false
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-04 08:44:03 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-04 08:44:03 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.user: root
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.data.version: 7
+[2025-07-04 08:44:03 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.port: 3306
+[2025-07-04 08:44:03 INFO  (main)] - Config - server.port: 14444
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-04 08:44:03 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-04 08:44:03 INFO  (main)] - Config - server.id: 1
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.item.version: 8
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-04 08:44:03 INFO  (main)] - Config - server.notification: "a"
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.map.version: 76
+[2025-07-04 08:44:03 INFO  (main)] - Config - mongodb.user: root
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-04 08:44:03 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-04 08:44:03 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-04 08:44:03 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.arena.active: true
+[2025-07-04 08:44:03 INFO  (main)] - Config - db.host: localhost
+[2025-07-04 08:44:03 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-04 08:44:03 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-04 08:44:04 INFO  (main)] - DB Connection Pool has created.
+[2025-07-04 08:44:07 INFO  (main)] - Loading list leader board
+[2025-07-04 08:44:08 INFO  (main)] - Load list leader board successfully
+[2025-07-04 08:44:08 INFO  (main)] - Loading clan data
+[2025-07-04 08:44:08 INFO  (main)] - Load clan data successfully
+[2025-07-04 08:44:08 INFO  (main)] - Load TDB
+[2025-07-04 08:44:08 INFO  (main)] - load finish:Thiên bảng
+[2025-07-04 08:44:08 INFO  (main)] - load finish:Địa bảng
+[2025-07-04 08:44:08 INFO  (main)] - Load TDB successfully
+[2025-07-04 08:44:09 INFO  (main)] - Start socket post=14444
+[2025-07-04 08:44:09 INFO  (main)] - Start server Success!
+[2025-07-04 08:44:09 INFO  (Thread-345)] - Connect to socket server successfully!
+[2025-07-04 08:45:13 INFO  (Thread-412)] - Đã kích hoạt bảo trì máy chủ
+[2025-07-04 08:45:24 INFO  (AWT-EventQueue-0)] - Đóng máy chủ.
+[2025-07-04 08:45:24 INFO  (AWT-EventQueue-0)] - End socket
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.password: 112204
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.shinwa.fee: 100000
+[2025-07-05 03:43:21 INFO  (main)] - Config - mongodb.password: 
+[2025-07-05 03:43:21 INFO  (main)] - Config - server.log.display: false
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.server.exp: 1
+[2025-07-05 03:43:21 INFO  (main)] - Config - mongodb.host: localhost
+[2025-07-05 03:43:21 INFO  (main)] - Config - mongodb.port: 27017
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.user: root
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.quantity.display.max: 65535
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.data.version: 7
+[2025-07-05 03:43:21 INFO  (main)] - Config - scheduledPoolSize: 20
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.port: 3306
+[2025-07-05 03:43:21 INFO  (main)] - Config - server.port: 14444
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.minconnections: 150
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.server.maxLV: 130
+[2025-07-05 03:43:21 INFO  (main)] - Config - websocket.host: ws://localhost
+[2025-07-05 03:43:21 INFO  (main)] - Config - server.id: 1
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.shinwa.active: true
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.login.limit: 50
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.maxconnections: 200
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.item.version: 8
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.store.discount: 0
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.shinwa.player.max: 20
+[2025-07-05 03:43:21 INFO  (main)] - Config - server.notification: "a"
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.map.version: 76
+[2025-07-05 03:43:21 INFO  (main)] - Config - mongodb.user: root
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.event: com.nsoz.event.LunarNewYear
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.shinwa.max: 10000
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.upgrade.percent.add: 0
+[2025-07-05 03:43:21 INFO  (main)] - Config - websocket.port: 8020
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.driver: com.mysql.cj.jdbc.Driver
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.dbname: nsotien_0
+[2025-07-05 03:43:21 INFO  (main)] - Config - threadPoolSize: 50
+[2025-07-05 03:43:21 INFO  (main)] - Config - client.data.size.max: 1024
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.arena.active: true
+[2025-07-05 03:43:21 INFO  (main)] - Config - db.host: localhost
+[2025-07-05 03:43:21 INFO  (main)] - Config - game.skill.version: 5
+[2025-07-05 03:43:21 INFO  (main)] - Config - mongodb.dbname: nsomin
+[2025-07-05 03:43:22 INFO  (main)] - DB Connection Pool has created.
+[2025-07-05 03:43:24 INFO  (main)] - Loading list leader board
+[2025-07-05 03:43:24 INFO  (main)] - Load list leader board successfully
+[2025-07-05 03:43:24 INFO  (main)] - Loading clan data
+[2025-07-05 03:43:24 INFO  (main)] - Load clan data successfully
+[2025-07-05 03:43:24 INFO  (main)] - Load TDB
+[2025-07-05 03:43:25 INFO  (main)] - load finish:Thiên bảng
+[2025-07-05 03:43:25 INFO  (main)] - load finish:Địa bảng
+[2025-07-05 03:43:25 INFO  (main)] - Load TDB successfully
+[2025-07-05 03:43:25 INFO  (main)] - Start socket post=14444
+[2025-07-05 03:43:25 INFO  (main)] - Start server Success!
+[2025-07-05 03:43:25 INFO  (Thread-345)] - Connect to socket server successfully!
+[2025-07-05 03:49:04 INFO  (AWT-EventQueue-0)] - Đóng máy chủ.
+[2025-07-05 03:49:04 INFO  (AWT-EventQueue-0)] - End socket
