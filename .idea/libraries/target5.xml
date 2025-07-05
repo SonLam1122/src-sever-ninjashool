@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/Nso-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/Nso.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
